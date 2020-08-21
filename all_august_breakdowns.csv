@@ -1,0 +1,371 @@
+ID,plant_name,breakdowns,L3,L4,ind
+Raw Sugar:Raw Sugar  Discharge,Baltimore,8.0682,Raw Sugar,Raw Sugar  Discharge,0
+Raw Sugar:Raw Sugar  Discharge,Chalmette,4.1764,Raw Sugar,Raw Sugar  Discharge,0
+Raw Sugar:Raw Sugar  Discharge,Crockett,14.0676,Raw Sugar,Raw Sugar  Discharge,0
+Raw Sugar:Raw Sugar  Discharge,Toronto,2.0581,Raw Sugar,Raw Sugar  Discharge,0
+Raw Sugar:Raw Sugar  Discharge,Yonkers,3.2622,Raw Sugar,Raw Sugar  Discharge,0
+Raw Sugar:Raw Sugar Conveying,Baltimore,6.973,Raw Sugar,Raw Sugar Conveying,0
+Raw Sugar:Raw Sugar Conveying,Chalmette,6.9115,Raw Sugar,Raw Sugar Conveying,0
+Raw Sugar:Raw Sugar Conveying,Crockett,7.3734,Raw Sugar,Raw Sugar Conveying,0
+Raw Sugar:Raw Sugar Conveying,Toronto,6.9669,Raw Sugar,Raw Sugar Conveying,0
+Raw Sugar:Raw Sugar Conveying,Yonkers,9.2979,Raw Sugar,Raw Sugar Conveying,0
+Raw Sugar:Raw Sugar Mobile Equipment,Baltimore,6.0943,Raw Sugar,Raw Sugar Mobile Equipment,0
+Raw Sugar:Raw Sugar Mobile Equipment,Chalmette,0,Raw Sugar,Raw Sugar Mobile Equipment,0
+Raw Sugar:Raw Sugar Mobile Equipment,Crockett,0,Raw Sugar,Raw Sugar Mobile Equipment,0
+Raw Sugar:Raw Sugar Mobile Equipment,Toronto,0,Raw Sugar,Raw Sugar Mobile Equipment,0
+Raw Sugar:Raw Sugar Mobile Equipment,Yonkers,0,Raw Sugar,Raw Sugar Mobile Equipment,0
+Refining:Acid,Baltimore,0,Refining,Acid,1
+Refining:Acid,Chalmette,0,Refining,Acid,1
+Refining:Acid,Crockett,0.5006,Refining,Acid,1
+Refining:Acid,Toronto,1.4343,Refining,Acid,1
+Refining:Acid,Yonkers,0.6375,Refining,Acid,1
+Refining:Affination Mingling and Melting,Baltimore,34.0307,Refining,Affination Mingling and Melting,1
+Refining:Affination Mingling and Melting,Chalmette,27.4755,Refining,Affination Mingling and Melting,1
+Refining:Affination Mingling and Melting,Crockett,33.8073,Refining,Affination Mingling and Melting,1
+Refining:Affination Mingling and Melting,Toronto,31.2669,Refining,Affination Mingling and Melting,1
+Refining:Affination Mingling and Melting,Yonkers,23.4878,Refining,Affination Mingling and Melting,1
+Refining:Clarification,Baltimore,6.1168,Refining,Clarification,1
+Refining:Clarification,Chalmette,3.3001,Refining,Clarification,1
+Refining:Clarification,Crockett,16.266,Refining,Clarification,1
+Refining:Clarification,Toronto,8.8627,Refining,Clarification,1
+Refining:Clarification,Yonkers,10.1969,Refining,Clarification,1
+Refining:Dust Collection,Baltimore,0,Refining,Dust Collection,1
+Refining:Dust Collection,Chalmette,0,Refining,Dust Collection,1
+Refining:Dust Collection,Crockett,0,Refining,Dust Collection,1
+Refining:Dust Collection,Toronto,3.1399,Refining,Dust Collection,1
+Refining:Dust Collection,Yonkers,0.2727,Refining,Dust Collection,1
+Refining:Evaporation,Baltimore,7.3862,Refining,Evaporation,1
+Refining:Evaporation,Chalmette,4.4957,Refining,Evaporation,1
+Refining:Evaporation,Crockett,12.3166,Refining,Evaporation,1
+Refining:Evaporation,Toronto,7.8962,Refining,Evaporation,1
+Refining:Evaporation,Yonkers,6.749,Refining,Evaporation,1
+Refining:Filtration,Baltimore,41.4717,Refining,Filtration,1
+Refining:Filtration,Chalmette,34.5962,Refining,Filtration,1
+Refining:Filtration,Crockett,47.528,Refining,Filtration,1
+Refining:Filtration,Toronto,44.6185,Refining,Filtration,1
+Refining:Filtration,Yonkers,13.876,Refining,Filtration,1
+Refining:High Pressure Water System,Baltimore,0.3882,Refining,High Pressure Water System,1
+Refining:High Pressure Water System,Chalmette,0,Refining,High Pressure Water System,1
+Refining:High Pressure Water System,Crockett,0,Refining,High Pressure Water System,1
+Refining:High Pressure Water System,Toronto,0,Refining,High Pressure Water System,1
+Refining:High Pressure Water System,Yonkers,0,Refining,High Pressure Water System,1
+Refining:Lime ,Baltimore,4.6433,Refining,Lime ,1
+Refining:Lime ,Chalmette,3.6047,Refining,Lime ,1
+Refining:Lime ,Crockett,3.7425,Refining,Lime ,1
+Refining:Lime ,Toronto,6.3797,Refining,Lime ,1
+Refining:Lime ,Yonkers,0.755,Refining,Lime ,1
+Refining:Melted Finals,Baltimore,0.623,Refining,Melted Finals,1
+Refining:Melted Finals,Chalmette,0.3507,Refining,Melted Finals,1
+Refining:Melted Finals,Crockett,0,Refining,Melted Finals,1
+Refining:Melted Finals,Toronto,0,Refining,Melted Finals,1
+Refining:Melted Finals,Yonkers,1.676,Refining,Melted Finals,1
+Refining:Melted Finals Spinning ,Baltimore,4.8631,Refining,Melted Finals Spinning ,1
+Refining:Melted Finals Spinning ,Chalmette,0,Refining,Melted Finals Spinning ,1
+Refining:Melted Finals Spinning ,Crockett,0,Refining,Melted Finals Spinning ,1
+Refining:Melted Finals Spinning ,Toronto,0,Refining,Melted Finals Spinning ,1
+Refining:Melted Finals Spinning ,Yonkers,0.7876,Refining,Melted Finals Spinning ,1
+Refining:Remelt,Baltimore,8.7501,Refining,Remelt,1
+Refining:Remelt,Chalmette,3.7629,Refining,Remelt,1
+Refining:Remelt,Crockett,9.666,Refining,Remelt,1
+Refining:Remelt,Toronto,0,Refining,Remelt,1
+Refining:Remelt,Yonkers,1.3252,Refining,Remelt,1
+Refining:Remelt Boiling,Baltimore,2.845,Refining,Remelt Boiling,1
+Refining:Remelt Boiling,Chalmette,5.4577,Refining,Remelt Boiling,1
+Refining:Remelt Boiling,Crockett,9.1499,Refining,Remelt Boiling,1
+Refining:Remelt Boiling,Toronto,6.2253,Refining,Remelt Boiling,1
+Refining:Remelt Boiling,Yonkers,8.1392,Refining,Remelt Boiling,1
+Refining:Remelt Mixing,Baltimore,1.7903,Refining,Remelt Mixing,1
+Refining:Remelt Mixing,Chalmette,2.9079,Refining,Remelt Mixing,1
+Refining:Remelt Mixing,Crockett,2.4998,Refining,Remelt Mixing,1
+Refining:Remelt Mixing,Toronto,4.3498,Refining,Remelt Mixing,1
+Refining:Remelt Mixing,Yonkers,1.4757,Refining,Remelt Mixing,1
+Refining:Remelt Spinning,Baltimore,6.1366,Refining,Remelt Spinning,1
+Refining:Remelt Spinning,Chalmette,4.424,Refining,Remelt Spinning,1
+Refining:Remelt Spinning,Crockett,10.2084,Refining,Remelt Spinning,1
+Refining:Remelt Spinning,Toronto,11.75,Refining,Remelt Spinning,1
+Refining:Remelt Spinning,Yonkers,8.3294,Refining,Remelt Spinning,1
+Refining:Soft Sugar Boiling,Baltimore,1.9051,Refining,Soft Sugar Boiling,1
+Refining:Soft Sugar Boiling,Chalmette,2.2726,Refining,Soft Sugar Boiling,1
+Refining:Soft Sugar Boiling,Crockett,3.8856,Refining,Soft Sugar Boiling,1
+Refining:Soft Sugar Boiling,Toronto,0,Refining,Soft Sugar Boiling,1
+Refining:Soft Sugar Boiling,Yonkers,0,Refining,Soft Sugar Boiling,1
+Refining:Soft Sugar Mixing,Baltimore,0.6284,Refining,Soft Sugar Mixing,1
+Refining:Soft Sugar Mixing,Chalmette,0,Refining,Soft Sugar Mixing,1
+Refining:Soft Sugar Mixing,Crockett,0.6462,Refining,Soft Sugar Mixing,1
+Refining:Soft Sugar Mixing,Toronto,0,Refining,Soft Sugar Mixing,1
+Refining:Soft Sugar Mixing,Yonkers,2.4162,Refining,Soft Sugar Mixing,1
+Refining:Soft Sugar Spinning,Baltimore,7.3425,Refining,Soft Sugar Spinning,1
+Refining:Soft Sugar Spinning,Chalmette,7.7261,Refining,Soft Sugar Spinning,1
+Refining:Soft Sugar Spinning,Crockett,8.6364,Refining,Soft Sugar Spinning,1
+Refining:Soft Sugar Spinning,Toronto,0,Refining,Soft Sugar Spinning,1
+Refining:Soft Sugar Spinning,Yonkers,8.2171,Refining,Soft Sugar Spinning,1
+Refining:White Sugar Boiling,Baltimore,11.7087,Refining,White Sugar Boiling,1
+Refining:White Sugar Boiling,Chalmette,12.4922,Refining,White Sugar Boiling,1
+Refining:White Sugar Boiling,Crockett,15.6881,Refining,White Sugar Boiling,1
+Refining:White Sugar Boiling,Toronto,22.2243,Refining,White Sugar Boiling,1
+Refining:White Sugar Boiling,Yonkers,10.455,Refining,White Sugar Boiling,1
+Refining:White Sugar Conditioning,Baltimore,4.5467,Refining,White Sugar Conditioning,1
+Refining:White Sugar Conditioning,Chalmette,0,Refining,White Sugar Conditioning,1
+Refining:White Sugar Conditioning,Crockett,8.9595,Refining,White Sugar Conditioning,1
+Refining:White Sugar Conditioning,Toronto,17.2426,Refining,White Sugar Conditioning,1
+Refining:White Sugar Conditioning,Yonkers,0.1522,Refining,White Sugar Conditioning,1
+Refining:White Sugar Drying,Baltimore,7.5239,Refining,White Sugar Drying,1
+Refining:White Sugar Drying,Chalmette,16.4053,Refining,White Sugar Drying,1
+Refining:White Sugar Drying,Crockett,18.8815,Refining,White Sugar Drying,1
+Refining:White Sugar Drying,Toronto,15.4152,Refining,White Sugar Drying,1
+Refining:White Sugar Drying,Yonkers,23.0981,Refining,White Sugar Drying,1
+Refining:White Sugar Mixing,Baltimore,2.2913,Refining,White Sugar Mixing,1
+Refining:White Sugar Mixing,Chalmette,0,Refining,White Sugar Mixing,1
+Refining:White Sugar Mixing,Crockett,4.2238,Refining,White Sugar Mixing,1
+Refining:White Sugar Mixing,Toronto,3.1711,Refining,White Sugar Mixing,1
+Refining:White Sugar Mixing,Yonkers,0,Refining,White Sugar Mixing,1
+Refining:White Sugar Spinning,Baltimore,25.7377,Refining,White Sugar Spinning,1
+Refining:White Sugar Spinning,Chalmette,27.137,Refining,White Sugar Spinning,1
+Refining:White Sugar Spinning,Crockett,41.3479,Refining,White Sugar Spinning,1
+Refining:White Sugar Spinning,Toronto,33.9471,Refining,White Sugar Spinning,1
+Refining:White Sugar Spinning,Yonkers,25.1772,Refining,White Sugar Spinning,1
+Liquid:Invert,Baltimore,1.5613,Liquid,Invert,2
+Liquid:Invert,Chalmette,1.8933,Liquid,Invert,2
+Liquid:Invert,Crockett,0,Liquid,Invert,2
+Liquid:Invert,Toronto,6.838,Liquid,Invert,2
+Liquid:Invert,Yonkers,1.1829,Liquid,Invert,2
+Liquid:Molasses,Baltimore,3.6031,Liquid,Molasses,2
+Liquid:Molasses,Chalmette,3.9662,Liquid,Molasses,2
+Liquid:Molasses,Crockett,0,Liquid,Molasses,2
+Liquid:Molasses,Toronto,3.2771,Liquid,Molasses,2
+Liquid:Molasses,Yonkers,1.7373,Liquid,Molasses,2
+Liquid:Sucrose,Baltimore,9.6558,Liquid,Sucrose,2
+Liquid:Sucrose,Chalmette,6.905,Liquid,Sucrose,2
+Liquid:Sucrose,Crockett,8.0796,Liquid,Sucrose,2
+Liquid:Sucrose,Toronto,22.3155,Liquid,Sucrose,2
+Liquid:Sucrose,Yonkers,29.614,Liquid,Sucrose,2
+Blending:Dry Blending,Baltimore,0,Blending,Dry Blending,3
+Blending:Dry Blending,Chalmette,0,Blending,Dry Blending,3
+Blending:Dry Blending,Crockett,0,Blending,Dry Blending,3
+Blending:Dry Blending,Toronto,0,Blending,Dry Blending,3
+Blending:Dry Blending,Yonkers,1.6256,Blending,Dry Blending,3
+Blending:Molasses ,Baltimore,0.6651,Blending,Molasses ,3
+Blending:Molasses ,Chalmette,0,Blending,Molasses ,3
+Blending:Molasses ,Crockett,0,Blending,Molasses ,3
+Blending:Molasses ,Toronto,0,Blending,Molasses ,3
+Blending:Molasses ,Yonkers,0,Blending,Molasses ,3
+"Packaging:4lb, 5lb, 2kg, 10lb,  Retail Bag System",Baltimore,48.8673,Packaging,"4lb, 5lb, 2kg, 10lb,  Retail Bag System",4
+"Packaging:4lb, 5lb, 2kg, 10lb,  Retail Bag System",Chalmette,25.8782,Packaging,"4lb, 5lb, 2kg, 10lb,  Retail Bag System",4
+"Packaging:4lb, 5lb, 2kg, 10lb,  Retail Bag System",Crockett,32.7773,Packaging,"4lb, 5lb, 2kg, 10lb,  Retail Bag System",4
+"Packaging:4lb, 5lb, 2kg, 10lb,  Retail Bag System",Toronto,11.4116,Packaging,"4lb, 5lb, 2kg, 10lb,  Retail Bag System",4
+"Packaging:4lb, 5lb, 2kg, 10lb,  Retail Bag System",Yonkers,21.9375,Packaging,"4lb, 5lb, 2kg, 10lb,  Retail Bag System",4
+Packaging:Bulk Loading,Baltimore,7.6151,Packaging,Bulk Loading,4
+Packaging:Bulk Loading,Chalmette,6.901,Packaging,Bulk Loading,4
+Packaging:Bulk Loading,Crockett,8.3638,Packaging,Bulk Loading,4
+Packaging:Bulk Loading,Toronto,21.0497,Packaging,Bulk Loading,4
+Packaging:Bulk Loading,Yonkers,2.7147,Packaging,Bulk Loading,4
+Packaging:Can Making - Golden Syrup Plant,Baltimore,0,Packaging,Can Making - Golden Syrup Plant,4
+Packaging:Can Making - Golden Syrup Plant,Chalmette,0.4668,Packaging,Can Making - Golden Syrup Plant,4
+Packaging:Can Making - Golden Syrup Plant,Crockett,0,Packaging,Can Making - Golden Syrup Plant,4
+Packaging:Can Making - Golden Syrup Plant,Toronto,0,Packaging,Can Making - Golden Syrup Plant,4
+Packaging:Can Making - Golden Syrup Plant,Yonkers,0,Packaging,Can Making - Golden Syrup Plant,4
+Packaging:Confects Packaging,Baltimore,27.1804,Packaging,Confects Packaging,4
+Packaging:Confects Packaging,Chalmette,10.664,Packaging,Confects Packaging,4
+Packaging:Confects Packaging,Crockett,0.6084,Packaging,Confects Packaging,4
+Packaging:Confects Packaging,Toronto,18.8855,Packaging,Confects Packaging,4
+Packaging:Confects Packaging,Yonkers,8.446,Packaging,Confects Packaging,4
+Packaging:Dust Collection,Baltimore,1.5479,Packaging,Dust Collection,4
+Packaging:Dust Collection,Chalmette,4.2143,Packaging,Dust Collection,4
+Packaging:Dust Collection,Crockett,0,Packaging,Dust Collection,4
+Packaging:Dust Collection,Toronto,4.5715,Packaging,Dust Collection,4
+Packaging:Dust Collection,Yonkers,0.6285,Packaging,Dust Collection,4
+Packaging:Empty Package Material Handling,Baltimore,0.1368,Packaging,Empty Package Material Handling,4
+Packaging:Empty Package Material Handling,Chalmette,0,Packaging,Empty Package Material Handling,4
+Packaging:Empty Package Material Handling,Crockett,0,Packaging,Empty Package Material Handling,4
+Packaging:Empty Package Material Handling,Toronto,0,Packaging,Empty Package Material Handling,4
+Packaging:Empty Package Material Handling,Yonkers,0,Packaging,Empty Package Material Handling,4
+Packaging:Finished Product Conveying,Baltimore,19.9344,Packaging,Finished Product Conveying,4
+Packaging:Finished Product Conveying,Chalmette,26.7783,Packaging,Finished Product Conveying,4
+Packaging:Finished Product Conveying,Crockett,55.6307,Packaging,Finished Product Conveying,4
+Packaging:Finished Product Conveying,Toronto,51.4907,Packaging,Finished Product Conveying,4
+Packaging:Finished Product Conveying,Yonkers,8.7008,Packaging,Finished Product Conveying,4
+Packaging:Individual Serving Package ISP,Baltimore,6.8232,Packaging,Individual Serving Package ISP,4
+Packaging:Individual Serving Package ISP,Chalmette,5.2412,Packaging,Individual Serving Package ISP,4
+Packaging:Individual Serving Package ISP,Crockett,7.2854,Packaging,Individual Serving Package ISP,4
+Packaging:Individual Serving Package ISP,Toronto,2.3606,Packaging,Individual Serving Package ISP,4
+Packaging:Individual Serving Package ISP,Yonkers,0.5466,Packaging,Individual Serving Package ISP,4
+Packaging:Industrial Gran Bagging System,Baltimore,8.7384,Packaging,Industrial Gran Bagging System,4
+Packaging:Industrial Gran Bagging System,Chalmette,13.3706,Packaging,Industrial Gran Bagging System,4
+Packaging:Industrial Gran Bagging System,Crockett,19.2732,Packaging,Industrial Gran Bagging System,4
+Packaging:Industrial Gran Bagging System,Toronto,12.7919,Packaging,Industrial Gran Bagging System,4
+Packaging:Industrial Gran Bagging System,Yonkers,8.2696,Packaging,Industrial Gran Bagging System,4
+Packaging:Mobile Equipment Packaging,Baltimore,0.1327,Packaging,Mobile Equipment Packaging,4
+Packaging:Mobile Equipment Packaging,Chalmette,0,Packaging,Mobile Equipment Packaging,4
+Packaging:Mobile Equipment Packaging,Crockett,2.8057,Packaging,Mobile Equipment Packaging,4
+Packaging:Mobile Equipment Packaging,Toronto,0,Packaging,Mobile Equipment Packaging,4
+Packaging:Mobile Equipment Packaging,Yonkers,0,Packaging,Mobile Equipment Packaging,4
+Packaging:Packaging Maintenance Shops,Baltimore,4.9872,Packaging,Packaging Maintenance Shops,4
+Packaging:Packaging Maintenance Shops,Chalmette,0.1532,Packaging,Packaging Maintenance Shops,4
+Packaging:Packaging Maintenance Shops,Crockett,0,Packaging,Packaging Maintenance Shops,4
+Packaging:Packaging Maintenance Shops,Toronto,1.1169,Packaging,Packaging Maintenance Shops,4
+Packaging:Packaging Maintenance Shops,Yonkers,1.8935,Packaging,Packaging Maintenance Shops,4
+Packaging:Powder Mills,Baltimore,3.3383,Packaging,Powder Mills,4
+Packaging:Powder Mills,Chalmette,13.929,Packaging,Powder Mills,4
+Packaging:Powder Mills,Crockett,28.2674,Packaging,Powder Mills,4
+Packaging:Powder Mills,Toronto,10.4896,Packaging,Powder Mills,4
+Packaging:Powder Mills,Yonkers,2.4464,Packaging,Powder Mills,4
+Packaging:Reprocess Sugar System,Baltimore,0.7734,Packaging,Reprocess Sugar System,4
+Packaging:Reprocess Sugar System,Chalmette,0.8297,Packaging,Reprocess Sugar System,4
+Packaging:Reprocess Sugar System,Crockett,0,Packaging,Reprocess Sugar System,4
+Packaging:Reprocess Sugar System,Toronto,0,Packaging,Reprocess Sugar System,4
+Packaging:Reprocess Sugar System,Yonkers,0,Packaging,Reprocess Sugar System,4
+Packaging:Soft Sugar Packaging,Baltimore,17.8348,Packaging,Soft Sugar Packaging,4
+Packaging:Soft Sugar Packaging,Chalmette,21.3324,Packaging,Soft Sugar Packaging,4
+Packaging:Soft Sugar Packaging,Crockett,63.6968,Packaging,Soft Sugar Packaging,4
+Packaging:Soft Sugar Packaging,Toronto,34.0928,Packaging,Soft Sugar Packaging,4
+Packaging:Soft Sugar Packaging,Yonkers,11.8177,Packaging,Soft Sugar Packaging,4
+Packaging:White Sugar Distribution,Baltimore,14.0429,Packaging,White Sugar Distribution,4
+Packaging:White Sugar Distribution,Chalmette,23.7135,Packaging,White Sugar Distribution,4
+Packaging:White Sugar Distribution,Crockett,37.95,Packaging,White Sugar Distribution,4
+Packaging:White Sugar Distribution,Toronto,8.3209,Packaging,White Sugar Distribution,4
+Packaging:White Sugar Distribution,Yonkers,0,Packaging,White Sugar Distribution,4
+Specialty Production:Speciality Product Process,Baltimore,16.6032,Specialty Production,Speciality Product Process,5
+Specialty Production:Speciality Product Process,Chalmette,20.6571,Specialty Production,Speciality Product Process,5
+Specialty Production:Speciality Product Process,Crockett,12.7897,Specialty Production,Speciality Product Process,5
+Specialty Production:Speciality Product Process,Toronto,0,Specialty Production,Speciality Product Process,5
+Specialty Production:Speciality Product Process,Yonkers,0,Specialty Production,Speciality Product Process,5
+Warehouse:Warehouse Mobile Equipmet,Baltimore,0.3572,Warehouse,Warehouse Mobile Equipmet,6
+Warehouse:Warehouse Mobile Equipmet,Chalmette,3.8566,Warehouse,Warehouse Mobile Equipmet,6
+Warehouse:Warehouse Mobile Equipmet,Crockett,13.28,Warehouse,Warehouse Mobile Equipmet,6
+Warehouse:Warehouse Mobile Equipmet,Toronto,3.2413,Warehouse,Warehouse Mobile Equipmet,6
+Warehouse:Warehouse Mobile Equipmet,Yonkers,0,Warehouse,Warehouse Mobile Equipmet,6
+Warehouse:Warehouse Truck Loading,Baltimore,0,Warehouse,Warehouse Truck Loading,6
+Warehouse:Warehouse Truck Loading,Chalmette,0.7094,Warehouse,Warehouse Truck Loading,6
+Warehouse:Warehouse Truck Loading,Crockett,18.9357,Warehouse,Warehouse Truck Loading,6
+Warehouse:Warehouse Truck Loading,Toronto,1.1194,Warehouse,Warehouse Truck Loading,6
+Warehouse:Warehouse Truck Loading,Yonkers,0,Warehouse,Warehouse Truck Loading,6
+Utilities:Auxiliary B and P Systems,Baltimore,6.5949,Utilities,Auxiliary B and P Systems,7
+Utilities:Auxiliary B and P Systems,Chalmette,13.4281,Utilities,Auxiliary B and P Systems,7
+Utilities:Auxiliary B and P Systems,Crockett,0,Utilities,Auxiliary B and P Systems,7
+Utilities:Auxiliary B and P Systems,Toronto,14.6194,Utilities,Auxiliary B and P Systems,7
+Utilities:Auxiliary B and P Systems,Yonkers,3.9134,Utilities,Auxiliary B and P Systems,7
+Utilities:Buildings,Baltimore,24.5676,Utilities,Buildings,7
+Utilities:Buildings,Chalmette,26.618,Utilities,Buildings,7
+Utilities:Buildings,Crockett,23.8667,Utilities,Buildings,7
+Utilities:Buildings,Toronto,37.8478,Utilities,Buildings,7
+Utilities:Buildings,Yonkers,41.0215,Utilities,Buildings,7
+Utilities:Compressed Air,Baltimore,5.0946,Utilities,Compressed Air,7
+Utilities:Compressed Air,Chalmette,0.739,Utilities,Compressed Air,7
+Utilities:Compressed Air,Crockett,4.0552,Utilities,Compressed Air,7
+Utilities:Compressed Air,Toronto,3.2353,Utilities,Compressed Air,7
+Utilities:Compressed Air,Yonkers,1.3578,Utilities,Compressed Air,7
+Utilities:Electrical Wiring and Lighting,Baltimore,16.7005,Utilities,Electrical Wiring and Lighting,7
+Utilities:Electrical Wiring and Lighting,Chalmette,6.082,Utilities,Electrical Wiring and Lighting,7
+Utilities:Electrical Wiring and Lighting,Crockett,0.709,Utilities,Electrical Wiring and Lighting,7
+Utilities:Electrical Wiring and Lighting,Toronto,0,Utilities,Electrical Wiring and Lighting,7
+Utilities:Electrical Wiring and Lighting,Yonkers,2.6695,Utilities,Electrical Wiring and Lighting,7
+Utilities:Fuel Systems,Baltimore,0,Utilities,Fuel Systems,7
+Utilities:Fuel Systems,Chalmette,0,Utilities,Fuel Systems,7
+Utilities:Fuel Systems,Crockett,0,Utilities,Fuel Systems,7
+Utilities:Fuel Systems,Toronto,1.4399,Utilities,Fuel Systems,7
+Utilities:Fuel Systems,Yonkers,0,Utilities,Fuel Systems,7
+Utilities:Grounds,Baltimore,0.9681,Utilities,Grounds,7
+Utilities:Grounds,Chalmette,0.2766,Utilities,Grounds,7
+Utilities:Grounds,Crockett,0.6468,Utilities,Grounds,7
+Utilities:Grounds,Toronto,1.7167,Utilities,Grounds,7
+Utilities:Grounds,Yonkers,2.7067,Utilities,Grounds,7
+Utilities:HVAC,Baltimore,2.4602,Utilities,HVAC,7
+Utilities:HVAC,Chalmette,0.816,Utilities,HVAC,7
+Utilities:HVAC,Crockett,1.8783,Utilities,HVAC,7
+Utilities:HVAC,Toronto,12.9382,Utilities,HVAC,7
+Utilities:HVAC,Yonkers,1.5797,Utilities,HVAC,7
+Utilities:High Voltage Electrical Systems,Baltimore,3.1696,Utilities,High Voltage Electrical Systems,7
+Utilities:High Voltage Electrical Systems,Chalmette,0.8849,Utilities,High Voltage Electrical Systems,7
+Utilities:High Voltage Electrical Systems,Crockett,0.2777,Utilities,High Voltage Electrical Systems,7
+Utilities:High Voltage Electrical Systems,Toronto,2.3734,Utilities,High Voltage Electrical Systems,7
+Utilities:High Voltage Electrical Systems,Yonkers,2.689,Utilities,High Voltage Electrical Systems,7
+Utilities:Industrial Waste Water Systems,Baltimore,1.8526,Utilities,Industrial Waste Water Systems,7
+Utilities:Industrial Waste Water Systems,Chalmette,2.7208,Utilities,Industrial Waste Water Systems,7
+Utilities:Industrial Waste Water Systems,Crockett,7.8328,Utilities,Industrial Waste Water Systems,7
+Utilities:Industrial Waste Water Systems,Toronto,2.8107,Utilities,Industrial Waste Water Systems,7
+Utilities:Industrial Waste Water Systems,Yonkers,1.2362,Utilities,Industrial Waste Water Systems,7
+Utilities:Low Voltage Electrical Systems,Baltimore,0,Utilities,Low Voltage Electrical Systems,7
+Utilities:Low Voltage Electrical Systems,Chalmette,0,Utilities,Low Voltage Electrical Systems,7
+Utilities:Low Voltage Electrical Systems,Crockett,0.6466,Utilities,Low Voltage Electrical Systems,7
+Utilities:Low Voltage Electrical Systems,Toronto,9.8703,Utilities,Low Voltage Electrical Systems,7
+Utilities:Low Voltage Electrical Systems,Yonkers,0,Utilities,Low Voltage Electrical Systems,7
+Utilities:Piping,Baltimore,33.3535,Utilities,Piping,7
+Utilities:Piping,Chalmette,11.2029,Utilities,Piping,7
+Utilities:Piping,Crockett,14.0037,Utilities,Piping,7
+Utilities:Piping,Toronto,0,Utilities,Piping,7
+Utilities:Piping,Yonkers,0,Utilities,Piping,7
+Utilities:Power Generation,Baltimore,3.6839,Utilities,Power Generation,7
+Utilities:Power Generation,Chalmette,3.1105,Utilities,Power Generation,7
+Utilities:Power Generation,Crockett,5.3217,Utilities,Power Generation,7
+Utilities:Power Generation,Toronto,1.5732,Utilities,Power Generation,7
+Utilities:Power Generation,Yonkers,4.2423,Utilities,Power Generation,7
+Utilities:Steam Generation,Baltimore,6.449,Utilities,Steam Generation,7
+Utilities:Steam Generation,Chalmette,5.9306,Utilities,Steam Generation,7
+Utilities:Steam Generation,Crockett,0,Utilities,Steam Generation,7
+Utilities:Steam Generation,Toronto,5.2794,Utilities,Steam Generation,7
+Utilities:Steam Generation,Yonkers,2.263,Utilities,Steam Generation,7
+Engineering:Auxiliary Equipment,Baltimore,0,Engineering,Auxiliary Equipment,8
+Engineering:Auxiliary Equipment,Chalmette,0,Engineering,Auxiliary Equipment,8
+Engineering:Auxiliary Equipment,Crockett,0,Engineering,Auxiliary Equipment,8
+Engineering:Auxiliary Equipment,Toronto,0,Engineering,Auxiliary Equipment,8
+Engineering:Auxiliary Equipment,Yonkers,0.1818,Engineering,Auxiliary Equipment,8
+Engineering:Maintenace Mobile Equipment,Baltimore,0.5359,Engineering,Maintenace Mobile Equipment,8
+Engineering:Maintenace Mobile Equipment,Chalmette,2.9912,Engineering,Maintenace Mobile Equipment,8
+Engineering:Maintenace Mobile Equipment,Crockett,2.5698,Engineering,Maintenace Mobile Equipment,8
+Engineering:Maintenace Mobile Equipment,Toronto,0.9878,Engineering,Maintenace Mobile Equipment,8
+Engineering:Maintenace Mobile Equipment,Yonkers,0,Engineering,Maintenace Mobile Equipment,8
+Engineering:Maintenance Shops,Baltimore,4.7157,Engineering,Maintenance Shops,8
+Engineering:Maintenance Shops,Chalmette,4.4962,Engineering,Maintenance Shops,8
+Engineering:Maintenance Shops,Crockett,0.8657,Engineering,Maintenance Shops,8
+Engineering:Maintenance Shops,Toronto,6.2433,Engineering,Maintenance Shops,8
+Engineering:Maintenance Shops,Yonkers,4.9471,Engineering,Maintenance Shops,8
+Mfg Information Systems:Backbone,Baltimore,0,Mfg Information Systems,Backbone,9
+Mfg Information Systems:Backbone,Chalmette,0.1481,Mfg Information Systems,Backbone,9
+Mfg Information Systems:Backbone,Crockett,0,Mfg Information Systems,Backbone,9
+Mfg Information Systems:Backbone,Toronto,0,Mfg Information Systems,Backbone,9
+Mfg Information Systems:Backbone,Yonkers,0,Mfg Information Systems,Backbone,9
+Mfg Information Systems:Computer Hardware,Baltimore,0,Mfg Information Systems,Computer Hardware,9
+Mfg Information Systems:Computer Hardware,Chalmette,0.1335,Mfg Information Systems,Computer Hardware,9
+Mfg Information Systems:Computer Hardware,Crockett,0.2345,Mfg Information Systems,Computer Hardware,9
+Mfg Information Systems:Computer Hardware,Toronto,0.1682,Mfg Information Systems,Computer Hardware,9
+Mfg Information Systems:Computer Hardware,Yonkers,0,Mfg Information Systems,Computer Hardware,9
+Mfg Information Systems:LAN,Baltimore,1.0953,Mfg Information Systems,LAN,9
+Mfg Information Systems:LAN,Chalmette,0,Mfg Information Systems,LAN,9
+Mfg Information Systems:LAN,Crockett,0,Mfg Information Systems,LAN,9
+Mfg Information Systems:LAN,Toronto,0,Mfg Information Systems,LAN,9
+Mfg Information Systems:LAN,Yonkers,0,Mfg Information Systems,LAN,9
+Mfg Information Systems:Telephone,Baltimore,0,Mfg Information Systems,Telephone,9
+Mfg Information Systems:Telephone,Chalmette,0,Mfg Information Systems,Telephone,9
+Mfg Information Systems:Telephone,Crockett,0,Mfg Information Systems,Telephone,9
+Mfg Information Systems:Telephone,Toronto,0.7533,Mfg Information Systems,Telephone,9
+Mfg Information Systems:Telephone,Yonkers,0,Mfg Information Systems,Telephone,9
+"Safety, QA and Services:Environmental",Baltimore,0,"Safety, QA and Services",Environmental,10
+"Safety, QA and Services:Environmental",Chalmette,0,"Safety, QA and Services",Environmental,10
+"Safety, QA and Services:Environmental",Crockett,0.2544,"Safety, QA and Services",Environmental,10
+"Safety, QA and Services:Environmental",Toronto,1.0769,"Safety, QA and Services",Environmental,10
+"Safety, QA and Services:Environmental",Yonkers,0,"Safety, QA and Services",Environmental,10
+"Safety, QA and Services:Fire protection",Baltimore,2.6216,"Safety, QA and Services",Fire protection,10
+"Safety, QA and Services:Fire protection",Chalmette,1.4244,"Safety, QA and Services",Fire protection,10
+"Safety, QA and Services:Fire protection",Crockett,0.8564,"Safety, QA and Services",Fire protection,10
+"Safety, QA and Services:Fire protection",Toronto,2.1904,"Safety, QA and Services",Fire protection,10
+"Safety, QA and Services:Fire protection",Yonkers,1.2966,"Safety, QA and Services",Fire protection,10
+"Safety, QA and Services:Lab",Baltimore,0.6675,"Safety, QA and Services",Lab,10
+"Safety, QA and Services:Lab",Chalmette,3.2543,"Safety, QA and Services",Lab,10
+"Safety, QA and Services:Lab",Crockett,1.5294,"Safety, QA and Services",Lab,10
+"Safety, QA and Services:Lab",Toronto,2.3148,"Safety, QA and Services",Lab,10
+"Safety, QA and Services:Lab",Yonkers,0,"Safety, QA and Services",Lab,10
+"Safety, QA and Services:Safety Equipment",Baltimore,0.2103,"Safety, QA and Services",Safety Equipment,10
+"Safety, QA and Services:Safety Equipment",Chalmette,0,"Safety, QA and Services",Safety Equipment,10
+"Safety, QA and Services:Safety Equipment",Crockett,0,"Safety, QA and Services",Safety Equipment,10
+"Safety, QA and Services:Safety Equipment",Toronto,0.2581,"Safety, QA and Services",Safety Equipment,10
+"Safety, QA and Services:Safety Equipment",Yonkers,0.5119,"Safety, QA and Services",Safety Equipment,10
+"Safety, QA and Services:Sanitation",Baltimore,0.9296,"Safety, QA and Services",Sanitation,10
+"Safety, QA and Services:Sanitation",Chalmette,0.7394,"Safety, QA and Services",Sanitation,10
+"Safety, QA and Services:Sanitation",Crockett,0,"Safety, QA and Services",Sanitation,10
+"Safety, QA and Services:Sanitation",Toronto,4.3346,"Safety, QA and Services",Sanitation,10
+"Safety, QA and Services:Sanitation",Yonkers,0,"Safety, QA and Services",Sanitation,10
+"Safety, QA and Services:Security ",Baltimore,0,"Safety, QA and Services",Security ,10
+"Safety, QA and Services:Security ",Chalmette,0,"Safety, QA and Services",Security ,10
+"Safety, QA and Services:Security ",Crockett,0,"Safety, QA and Services",Security ,10
+"Safety, QA and Services:Security ",Toronto,0.4168,"Safety, QA and Services",Security ,10
+"Safety, QA and Services:Security ",Yonkers,0.8409,"Safety, QA and Services",Security ,10
